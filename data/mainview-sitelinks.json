@@ -1,0 +1,30 @@
+[
+  {
+    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/Genesis-1/mainview-slides.json",
+    "icon": "article",
+    "text": "Genesis-1",
+    "description": "",
+    "title": "",
+    "type": "slides",
+    "external": false,
+    "nav": "Genesis-1",
+    "fullNav": "/Genesis-1",
+    "view": "article",
+    "views": "article,presentation,video,youtube",
+    "hrefBase": "https://raw.githubusercontent.com",
+    "hrefBaseOverride": "",
+    "hrefOwner": "JohnBaluka",
+    "hrefRepo": "data-TMBO-EN-YV-BSB-EN-01-Genesis-001",
+    "hrefBranch": "main",
+    "hrefOverride": "",
+    "useHrefOverride": false,
+    "hrefAuth": "",
+    "siteLinksURL": "",
+    "siteLinksURLOverride": "",
+    "youTubeId": "",
+    "videoFile": "",
+    "createdDateTime": "2026-09-23T13:06:54.0721477Z",
+    "updatedDateTime": "2026-09-25T00:46:32.6966816Z",
+    "siteLinks": []
+  }
+]
