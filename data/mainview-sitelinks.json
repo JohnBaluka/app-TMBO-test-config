@@ -1,6 +1,6 @@
 [
   {
-    "href": "",
+    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/mainview-slides.json",
     "icon": "fa-file-lines",
     "text": "Our Pitch to You",
     "description": "Meet people where they are.",
@@ -13,8 +13,8 @@
     "views": "article,presentation,video,youtube",
     "hrefBase": "https://raw.githubusercontent.com",
     "hrefBaseOverride": "",
-    "hrefOwner": "",
-    "hrefRepo": "",
+    "hrefOwner": "JohnBaluka",
+    "hrefRepo": "data-TMBO-EN-Gloo2026-Pitch1",
     "hrefBranch": "main",
     "hrefOverride": "",
     "useHrefOverride": false,
@@ -24,7 +24,7 @@
     "youTubeId": "",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-09-30T01:44:07Z",
+    "updatedDateTime": "2026-09-30T01:46:38Z",
     "siteLinks": []
   },
   {
