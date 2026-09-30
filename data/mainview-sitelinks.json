@@ -1,5 +1,33 @@
 [
   {
+    "href": "",
+    "icon": "fa-file-lines",
+    "text": "Our Pitch to You",
+    "description": "Meet people where they are.",
+    "title": "This is our Pitch from the Gloo Hackathon.",
+    "type": "slides",
+    "external": false,
+    "nav": "Our-Pitch-to-You",
+    "fullNav": "/Our-Pitch-to-You",
+    "view": "article",
+    "views": "article,presentation,video,youtube",
+    "hrefBase": "https://raw.githubusercontent.com",
+    "hrefBaseOverride": "",
+    "hrefOwner": "",
+    "hrefRepo": "",
+    "hrefBranch": "main",
+    "hrefOverride": "",
+    "useHrefOverride": false,
+    "hrefAuth": "",
+    "siteLinksURL": "",
+    "siteLinksURLOverride": "",
+    "youTubeId": "",
+    "videoFile": "",
+    "createdDateTime": "2026-09-23T13:06:54.0721477Z",
+    "updatedDateTime": "2026-09-30T01:44:07Z",
+    "siteLinks": []
+  },
+  {
     "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/mainview-slides.json",
     "icon": "fa-file-lines",
     "text": "Intro to Matthew",
@@ -52,7 +80,7 @@
     "youTubeId": "uGiGI-hQyJs",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-09-28T20:16:29Z",
+    "updatedDateTime": "2026-09-30T01:44:07Z",
     "siteLinks": []
   },
   {
