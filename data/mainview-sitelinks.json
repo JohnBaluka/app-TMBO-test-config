@@ -3,8 +3,8 @@
     "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/mainview-slides.json",
     "icon": "fa-file-lines",
     "text": "Our Pitch to You",
-    "description": "Meet people where they are.",
-    "title": "This is our Pitch from the Gloo Hackathon.",
+    "description": "Read, Listen, Watch, or Interact.",
+    "title": "This is our Pitch from the Gloo AI Hackathon 2026.",
     "type": "slides",
     "external": false,
     "nav": "Our-Pitch-to-You",
@@ -15,20 +15,8 @@
       {
         "view": "article",
         "text": "",
-        "title": "Article View - Optimized for Reading",
+        "title": "",
         "hidePageNav": true,
-        "isEmpty": false
-      },
-      {
-        "view": "presentation",
-        "text": "",
-        "title": "Slides View - Optimized for Watching",
-        "isEmpty": false
-      },
-      {
-        "view": "youtube",
-        "text": "",
-        "title": "YouTube View - Optimized for Watching",
         "isEmpty": false
       }
     ],
@@ -45,7 +33,7 @@
     "youTubeId": "nz-iqxCeXiI",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-10-02T22:41:22Z",
+    "updatedDateTime": "2026-10-03T17:29:32Z",
     "siteLinks": []
   },
   {
@@ -64,20 +52,8 @@
       {
         "view": "article",
         "text": "Intro",
-        "title": "Optimized for Reading",
+        "title": "",
         "hidePageNav": true,
-        "isEmpty": false
-      },
-      {
-        "view": "presentation",
-        "text": "",
-        "title": "Slides View - Optimized for Watching",
-        "isEmpty": false
-      },
-      {
-        "view": "youtube",
-        "text": "",
-        "title": "YouTube View - Optimized for Watching",
         "isEmpty": false
       }
     ],
@@ -94,7 +70,7 @@
     "youTubeId": "",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-10-02T22:41:22Z",
+    "updatedDateTime": "2026-10-03T17:29:32Z",
     "siteLinks": []
   },
   {
@@ -113,20 +89,8 @@
       {
         "view": "article",
         "text": "Scripture",
-        "title": "Article View - Optimized for Reading",
+        "title": "",
         "hidePageNav": true,
-        "isEmpty": false
-      },
-      {
-        "view": "presentation",
-        "text": "",
-        "title": "Slides View - Optimized for Watching",
-        "isEmpty": false
-      },
-      {
-        "view": "youtube",
-        "text": "",
-        "title": "YouTube View - Optimized for Watching",
         "isEmpty": false
       }
     ],
@@ -143,7 +107,7 @@
     "youTubeId": "qrDvwYWh0mw",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-10-02T18:05:55Z",
+    "updatedDateTime": "2026-10-03T17:29:32Z",
     "siteLinks": []
   },
   {
@@ -162,20 +126,8 @@
       {
         "view": "article",
         "text": "Scripture",
-        "title": "Article View - Optimized for Reading",
+        "title": "",
         "hidePageNav": true,
-        "isEmpty": false
-      },
-      {
-        "view": "presentation",
-        "text": "",
-        "title": "Slides View - Optimized for Watching",
-        "isEmpty": false
-      },
-      {
-        "view": "youtube",
-        "text": "",
-        "title": "YouTube View - Optimized for Watching",
         "isEmpty": false
       }
     ],
@@ -192,7 +144,7 @@
     "youTubeId": "",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-10-02T18:05:55Z",
+    "updatedDateTime": "2026-10-03T17:29:32Z",
     "siteLinks": []
   }
 ]
